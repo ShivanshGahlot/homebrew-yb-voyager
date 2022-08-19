@@ -18,3 +18,4 @@ class YbVoyager < Formula
   test do
     system "#{bin}/yb-voyager", "--help"
   end
+end
