@@ -1,4 +1,4 @@
-class YbVoyager < Formula
+class YbVoyagerAT99 < Formula
   desc "YugabyteDB's migration tool"
   homepage "https://github.com/yugabyte/yb-voyager/"
   url "https://github.com/yugabyte/yb-voyager/archive/master.tar.gz"
