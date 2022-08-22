@@ -4,6 +4,7 @@ class YbVoyagerAT99 < Formula
   url "https://github.com/yugabyte/yb-voyager/archive/master.tar.gz"
   sha256 "c3a9064c2a6b0082e93883c0524dabf50b6d7284f7451b80f44a9e79e9235216"
   license "Apache-2.0"
+  version "9.9"
 
   depends_on "go" => :build
   depends_on "libpq"
